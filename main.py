@@ -68,5 +68,11 @@ def scatter(x_axis, y_axis):
 scatter('GPA', 'Absences')
 print(f"There is a negative correlation where as absences are lower for a particular student, the GPA is higher/lower for females than males.")
 
-
+# summary of analyses:
+#1: This dataset contained more boys than girls, 51/49 split on average.
+#2: The difference between the means of each gender's GPA is insignificant.
+#3: In this dataset, the average student piled up 15 absences in a school year.
+#4: There was no significant correlation between a student's GPA and the Parent's Education level.
+#5: This dataset contained an approximately equal number of each age group.
+#6: There is a clear negative correlation between number of absences and GPA attained.
 
